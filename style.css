@@ -160,7 +160,7 @@ body {
 h1{
     color: cornsilk;
 }
-
+h2{color: cornsilk;}
 @media screen and (
     max-width:800px
 ){
