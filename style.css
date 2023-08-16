@@ -45,7 +45,7 @@ body {
 }
 .canto{
     width: 50%;
-    right: 40px; inherit;
+    right: 40px; 
 }
 
 .botao_secundario {
@@ -156,6 +156,9 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
+}
+h1{
+    color: cornsilk;
 }
 
 @media screen and (
