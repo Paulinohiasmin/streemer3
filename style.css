@@ -43,6 +43,10 @@ body {
     text-decoration: none;
     margin-bottom: 1em;
 }
+.canto{
+    width: 50%;
+    right: 40px; inherit;
+}
 
 .botao_secundario {
     background-color: transparent;
