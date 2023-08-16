@@ -51,6 +51,7 @@ body {
 .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
+    color(srgb red rgb(127, 24, 245) blue)
 }
 
 .container__aviso {
